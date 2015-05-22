@@ -1,0 +1,14 @@
+{
+  "name": "array-fill-random-binary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "meandave",
+  "license": "MIT"
+}
